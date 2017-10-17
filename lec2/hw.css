@@ -1,0 +1,48 @@
+.flex-whole{
+width:400px;
+height: 500px;
+}
+.flex-container1{
+  background-color: pink;
+  width: 400px;
+  height: 100px;
+}
+.flex-container2{
+  display: flex;
+  width: 400px;
+  height: 200px;
+}
+.flex-container21{
+  background-color: black;
+  width: 200px;
+  height:200px;
+}
+.flex-container22{
+  width:200px;
+  height:200px;
+}
+.flex-container221{
+  background-color: yellow;
+  width: 200px;
+  height: 50%;
+}
+.flex-container222{
+  display: flex;
+  width: 200px;
+  height: 50%;
+}
+.flex-container2221{
+  background-color: blue;
+  width: 50%;
+  height: 100px;
+}
+.flex-container2222{
+  background-color: pink;
+  width:50%;
+  height: 100px;
+}
+.flex-container3{
+  background-color: orange;
+  width: 400px;
+  height: 100px;
+}
